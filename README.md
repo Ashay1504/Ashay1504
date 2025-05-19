@@ -9,7 +9,7 @@ I'm currently a 3rd-year Computer Engineering student at **Georgia Institute of 
 ### 🔭 What I'm currently working on:
 
 *   Exploring advanced topics in Deep Learning and CNNs.
-*   Contributing to autonomous systems VIP research at Georgia Tech [[here](https://github.com/DMinha/vipteam4/tree/Final)
+*   Contributing to autonomous systems VIP research at Georgia Tech [here](https://github.com/DMinha/vipteam4/tree/Final)
 
 ### 🌱 What I'm learning:
 
