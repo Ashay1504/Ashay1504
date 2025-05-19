@@ -2,7 +2,7 @@
 
 ### A Computer Engineering student passionate about building intelligent systems.
 
-I'm currently a 3rd-year Computer Engineering student at **Georgia Institute of Technology** with specialiazation in Computing Hardware & Emerging Architectures and Signal & Information Processing. My interests lie at the intersection of **AI/ML, Data Engineering, and Embedded Systems**, where I love to develop innovative software and hardware solutions that drive efficiency and solve complex problems.
+Driven by an interest in the intersection of **AI/ML, Data Engineering, and Embedded Systems**, I am currently a 3rd-year Computer Engineering student at **Georgia Institute of Technology**. I am specializing in **Computing Hardware & Emerging Architectures** and **Signal & Information Processing**, constantly seeking to develop innovative software and hardware solutions that enhance efficiency and solve complex problems.
 
 ---
 
