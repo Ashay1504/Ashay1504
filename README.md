@@ -32,10 +32,9 @@ I'm currently a 3rd-year Computer Engineering student at **Georgia Institute of 
 
 ### ✨ Featured Projects:
 
-*   **[WordleGame-final](https://github.com/Ashay1504/WordleGame-final)**: An integrated hardware and software implementation of the popular Wordle game using C/C++. ([Link to Repo](https://github.com/Ashay1504/WordleGame-final))
+*   **[GridGuard](https://github.com/Ashay1504/GridGuard)**: A Real-Time Energy Monitoring and Predictive Analytics System using Python, ML, and   StreamLit.
+*  **[Embedded Wordle-like Game (2035LE) on Mbed OS]**: An integrated hardware and software implementation of the popular Wordle game using C/C++.
 *   **[BatteryStatusReader]**: An embedded LiPo battery monitoring system built with a Teensy microcontroller, achieving high accuracy.
-*   **[GridGuard](https://github.com/Ashay1504/GridGuard)**: A Real-Time Energy Monitoring and Predictive Analytics System using Python, ML, and StreamLit. ([Link to Repo](https://github.com/Ashay1504/GridGuard))
-*   *(You can add more significant projects here, even if they are private, by giving a brief description. E.g., "Autonomous Systems Research: Developing real-time decision algorithms...")*
 
 ---
 
