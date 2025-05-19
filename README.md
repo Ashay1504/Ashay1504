@@ -13,7 +13,7 @@ I'm currently a 3rd-year Computer Engineering student at **Georgia Institute of 
 
 ### 🌱 What I'm learning:
 
-*   Deepening my understanding of ML algorithms, Frameworks like ROS2, like FPGAs, Embedded Systems etc.
+*   Deepening my understanding of ML algorithms, Frameworks like ROS2, FPGAs, Embedded Systems etc.
 *   Expanding my skills in Rust, Cloud Computing, System Design and Computer Architecture.
 
 ### ⚡ My Tech Stack & Interests:
@@ -32,9 +32,15 @@ I'm currently a 3rd-year Computer Engineering student at **Georgia Institute of 
 
 ### ✨ Featured Projects:
 
+*   **[FPGA-Based PWM LED Brightness Controller (DE10-Standard)](https://github.com/Ashay1504/Brightness_LED_Controller)**: Designed and implemented a precise LED brightness controller on an Intel DE10-Standard FPGA board using hardware Pulse Width Modulation (PWM) generated with VHDL, focusing on accurate and responsive control using custom VHDL modules.
+*   **[Face Recognition Based Smart Attendance System](https://github.com/Ashay1504/Face_Recognition_Based_Attendance_System)**: Developed a face recognition-based attendance system for automated tracking using Haar Cascade (detection), KNN (recognition), and a Streamlit interface.
+*   **[Robotic Maze Navigation and Autonomous Delivery System using Python](https://github.com/Ashay1504/iRobot-Create3-Python-Projects)**: Created an interactive solution for maze navigation and delivery using Python, implementing efficient pathfinding algorithms.
 *   **[GridGuard](https://github.com/Ashay1504/GridGuard)**: A Real-Time Energy Monitoring and Predictive Analytics System using Python, ML, and   StreamLit.
-*  **[Embedded Wordle-like Game (2035LE) on Mbed OS]**: An integrated hardware and software implementation of the popular Wordle game using C/C++.
-*   **[BatteryStatusReader]**: An embedded LiPo battery monitoring system built with a Teensy microcontroller, achieving high accuracy.
+*   **Real Estate Price Prediction Model**: Built a Real Estate Price Prediction Model involving data preprocessing, ML model training (high accuracy), a Python Flask web interface, and deployment on AWS EC2.
+*  **Embedded Wordle-like Game (2035LE) on Mbed OS**: An integrated hardware and software implementation of the popular Wordle game using C/C++.
+*   **BatteryStatusReader**: An embedded LiPo battery monitoring system built with a Teensy microcontroller, achieving high accuracy.
+
+  *(Note: These projects highlight my experience in integrated systems, embedded development, digital logic, robotics, data analysis, machine learning, and web development/deployment.)*
 
 ---
 
@@ -42,8 +48,6 @@ I'm currently a 3rd-year Computer Engineering student at **Georgia Institute of 
 
 ![Ashay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashay1504&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashay1504&layout=compact&theme=radical)
-
-*(You can customize the theme of these stats cards by changing `theme=radical` to something else. Check out the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) page for options.)*
 
 ---
 
